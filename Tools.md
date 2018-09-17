@@ -15,3 +15,5 @@ Chạy thử IOS Simulator
 
 ## Nộp bài Swift bằng Repl.it
 
+## Tìm kiếm lỗi
+

@@ -9,6 +9,7 @@ Việc dùng chung một khung giáo trình sẽ giúp sinh viên dễ dàng chu
 5. [Swift căn bản qua bài tập](SwiftProblem.md)
 6. [Trivia Quiz Lite](TriviaQuizLite.md)
 7. [Giao diện và các thành phần](UI.md)
+8. [Ứng dụng Podomoro](podomoro.md)
 8. [Kết nối CSDL](Database.md)
 
 Nguồn tham khảo:
