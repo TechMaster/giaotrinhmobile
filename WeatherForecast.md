@@ -25,3 +25,7 @@ Tập trung vào hướng dẫn layout giao diện:
 5. Randomize nhiệt độ từ 10-32 độ
 6. Lập trình với số float
 7. Autolayout giao diện
+
+**Tham khảo**
+![](https://znews-photo-td.zadn.vn/w1024/Uploaded/ycgvpvpc/2018_09_10/11_b.jpg)
+![](https://znews-photo-td.zadn.vn/w1024/Uploaded/ycgvpvpc/2018_09_10/11_c.JPG)
