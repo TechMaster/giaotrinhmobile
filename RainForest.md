@@ -18,7 +18,9 @@ Khi toàn bộ hình con hổ ra khỏi màn hình thì cần gán lại tọa �
   ![Con hổ](images/rainforest2.jpg)
 
 3. Hãy hứng sự kiện khi người dùng chạm vào con hổ, thì con hổ sẽ gầm lên.
-4. Tiếp đó bổ xung hoạt hình các con vật còn lại
+4. Tiếp đó bổ xung hoạt hình các con vật còn lại. Chú chim cần bay chéo màn hình.
+
+  ![Chim bay](images/rainforest3.jpg)
 
 ## Gợi ý lập trình
 1. Hãy xem kỹ UIView, UIImageView. Với UIView cần tìm hiểu về 2 thuộc tính frame, bound
