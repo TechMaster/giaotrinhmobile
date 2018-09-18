@@ -27,5 +27,7 @@ Tập trung vào hướng dẫn layout giao diện:
 7. Autolayout giao diện
 
 **Tham khảo**
+Đây là thiết kế của Zing. Khá đẹp hãy học hỏi nhé
+
 ![](https://znews-photo-td.zadn.vn/w1024/Uploaded/ycgvpvpc/2018_09_10/11_b.jpg)
 ![](https://znews-photo-td.zadn.vn/w1024/Uploaded/ycgvpvpc/2018_09_10/11_c.JPG)

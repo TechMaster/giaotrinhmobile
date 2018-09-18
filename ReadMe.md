@@ -1,6 +1,8 @@
 Giáo trình để lớp di động. Đây là khung được thiết kế cho lớp iOS. Tuy nhiên có thể áp dụng cho Android và React Native hay Flutter.
 
-Việc dùng chung một khung giáo trình sẽ giúp sinh viên dễ dàng chuyển đổi cộng nghệ. Giảng viên tái sử dụng được ý tưởng làm app, graphics resource
+Việc dùng chung một khung giáo trình sẽ giúp sinh viên dễ dàng chuyển đổi cộng nghệ. Giảng viên tái sử dụng được ý tưởng làm app, graphics resource.
+
+Tác giả khung giáo trình Trịnh Minh Cường, cuong@techmaster.vn
 
 1. [Công cụ lập trình](Tools.md)
 2. [I am Rich](IAmRich.md)
